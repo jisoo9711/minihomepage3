@@ -2,3 +2,4 @@
 
 - 배경색: white
 - 글자색: gray
+style

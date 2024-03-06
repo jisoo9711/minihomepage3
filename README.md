@@ -4,3 +4,5 @@
 ## 스타일 구성
 - style.md 추가
 
+## 구매 추가
+- purchase.md 추가
